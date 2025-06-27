@@ -15,3 +15,17 @@
 # https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/playercontrol.cs
 # https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/sceneswitcher.cs
 # https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/gifs/opdracht%204.gif File is te groot for read me
+
+# Opdracht 5
+# Ik heb de opdracht gemaakt zodat je punten kunt oppakken en score word gebruikt. 
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/scoremanager.cs
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/moveplayer.cs
+
+# Opdracht 6 
+# Ik heb het gemaakt zodat de kogel de dummy volgt en je een sphere hebt die jou volgt
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/gifs/opdracht6.gif Die gif die te groot is
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/PlayerMove.cs
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/HomingShot.cs
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/FollowAndReturn.cs
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/EenOfAndereDummy.cs
+# https://github.com/ApollyonLeyssius/Prog-periode-4/blob/main/Prog%20periode%204/Assets/Scripts/Schieten.cs 
